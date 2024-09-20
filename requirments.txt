@@ -1,0 +1,10 @@
+Levenshtein
+wired_table_rec
+lineless_table_rec
+table_cls
+rapid_layout
+PyMuPDF
+bs4
+lxml
+python-docx
+mistune
